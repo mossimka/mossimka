@@ -35,5 +35,5 @@ Participant of Nfactorial(n!) Incubator 2025.
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1rem;">
   <p>See you soon...</p>
-  <img src="assets/neo.gif" width="600>
+  <img src="./assets/neo.gif" width="600"/>
 </div>

@@ -35,5 +35,5 @@ Participant of Nfactorial(n!) Incubator 2025.
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1rem;">
   <p>See you soon...</p>
-  <img src="https://images.steamusercontent.com/ugc/941712430418642443/CC99A6D0B773AC668245EAE04E1A0D553F24D1D5/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="600>
+  <img src="assets/neo.gif" width="600>
 </div>

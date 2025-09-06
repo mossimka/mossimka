@@ -31,6 +31,9 @@ Participant of Nfactorial(n!) Incubator 2025.
   <a href="https://www.linkedin.com/in/maxim-sarsekeyev-a133ba354/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/mbgXmF2NK2/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 1rem;">

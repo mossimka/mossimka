@@ -1,5 +1,9 @@
 ## Hello there, I'm Maxim!
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&duration=4500&pause=800&color=00FF41&background=0D0208&center=true&vCenter=true&width=350&lines=Wake+up+neo...;The+matrix+has+you...;Follow+the+white+rabbit." alt="Typing SVG" /></a>
+</p>
+
 I'm a passionate developer focused on AI, Fullstack Development, ML, mobile experiences and sometimes WEB3. Currently studiyng at the 3rd course of KBTU's Bachelor Degree in Information Systems.
 Participant of Nfactorial(n!) Incubator 2025.
 

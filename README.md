@@ -13,6 +13,7 @@ Participant of Nfactorial(n!) Incubator 2025.
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mossimka&layout=compact&hide=jupyter%20notebook&theme=graywhite" height="150"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mossimka&theme=github-compact" height="150"/>
+  <img src="./assets/jazzy-skull.gif" width="200">
 
 </div>
 

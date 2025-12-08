@@ -11,7 +11,7 @@ Participant of Nfactorial(n!) Incubator 2025.
 ## My GH Stats
 <div align="center">
 
-  <img src="https://gh-stats-eta.vercel.app/api/top-langs/?username=mossimka&layout=compact&hide=jupyter-notebook,html&theme=graywhite" height="150"/>
+  <img src="https://gh-stats-eta.vercel.app/api/top-langs/?username=mossimka&layout=compact&hide=jupyter%20notebook,html&theme=graywhite" height="150"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mossimka&theme=github-compact" height="150"/>
   <img src="./assets/jazzy-skull.gif" width="200">
 

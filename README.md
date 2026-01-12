@@ -18,7 +18,7 @@ Participant of Nfactorial(n!) Incubator 2025.
 </div>
 
 ## Main Stack
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/TypeScript-0D0208?style=for-the-badge&logo=typescript&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Next.js-0D0208?style=for-the-badge&logo=next.js&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/React-0D0208?style=for-the-badge&logo=react&logoColor=00FF41" />

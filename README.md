@@ -7,6 +7,8 @@
 I'm a passionate developer focused on AI, Fullstack Development, ML, mobile experiences and sometimes WEB3. Currently studiyng at the 3rd course of KBTU's Bachelor Degree in Information Systems.
 Participant of Nfactorial(n!) Incubator 2025.
 
+Ranked #22 among public contributors in Kazakhstan: [Top GitHub Users - Kazakhstan](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/kazakhstan.md)
+
 
 ## My GH Stats
 <div align="center">
